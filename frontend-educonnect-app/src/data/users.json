@@ -1,0 +1,27 @@
+[
+    {
+        "id": "usr_01",
+        "name": "Felix Pratama",
+        "email": "felix@student.educonnect.id",
+        "role": "student",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=250",
+        "class": "XII RPL 1",
+        "points": 1450,
+        "level": 5
+    },
+    {
+        "id": "usr_02",
+        "name": "Budi Santoso, S.Kom.",
+        "email": "budi@teacher.educonnect.id",
+        "role": "teacher",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=250",
+        "subject": "Pemrograman Web & Perangkat Bergerak"
+    },
+    {
+        "id": "usr_03",
+        "name": "Admin EduConnect",
+        "email": "admin@educonnect.id",
+        "role": "admin",
+        "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=250"
+    }
+]

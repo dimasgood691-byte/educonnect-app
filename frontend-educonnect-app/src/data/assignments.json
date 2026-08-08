@@ -1,0 +1,26 @@
+[
+    {
+        "id": "task-1",
+        "courseTitle": "Pemrograman Web",
+        "title": "Slicing UI Responsive Dashboard dengan Tailwind CSS",
+        "dueDate": "10 Agt 2026",
+        "status": "pending",
+        "score": null
+    },
+    {
+        "id": "task-2",
+        "courseTitle": "Basis Data",
+        "title": "Desain ERD & DDL Sistem Kasir Toko Online",
+        "dueDate": "12 Agt 2026",
+        "status": "pending",
+        "score": null
+    },
+    {
+        "id": "task-3",
+        "courseTitle": "Bahasa Inggris",
+        "title": "Technical Report Writing: Web App Architecture",
+        "dueDate": "05 Agt 2026",
+        "status": "completed",
+        "score": 95
+    }
+]

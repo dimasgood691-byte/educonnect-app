@@ -1,0 +1,16 @@
+[
+    {
+        "id": "ann-1",
+        "category": "Akademik",
+        "title": "Pelaksanaan Penilaian Tengah Semester (PTS) Ganjil",
+        "content": "PTS Ganjil akan dilaksanakan mulai tanggal 15 Oktober 2026. Harap persiapkan diri dan selesaikan seluruh tugas yang belum dikumpulkan.",
+        "date": "1 Agt 2026"
+    },
+    {
+        "id": "ann-2",
+        "category": "Pengumuman",
+        "title": "Pemeliharaan Server EduConnect",
+        "content": "Akan dilakukan perawatan rutin server pada hari Sabtu pukul 23.00 WIB.",
+        "date": "28 Jul 2026"
+    }
+]

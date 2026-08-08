@@ -1,0 +1,35 @@
+[
+    {
+        "id": "thread-1",
+        "author": "Felix",
+        "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150",
+        "role": "Siswa",
+        "category": "Kejuruan RPL",
+        "title": "Bagaimana cara menangani CORS Error saat melakukan fetch API dari Express backend?",
+        "content": "Halo teman-teman, saat saya mencoba melakukan fetch data dari backend localhost:5000 ke Vite React localhost:5173, muncul error blocked by CORS policy. Ada yang punya solusi setting middleware cors di Node.js?",
+        "likes": 12,
+        "createdAt": "2 jam yang lalu",
+        "replies": [
+            {
+                "id": "reply-1",
+                "author": "Rian Kusuma, S.Pd.",
+                "role": "Pengajar",
+                "content": "Kamu perlu menginstall package `cors` di backend (`npm i cors`), lalu tambahkan `app.use(cors())` di file `server.js` sebelum pendefinisian rute API kamu.",
+                "createdAt": "1 jam yang lalu",
+                "isTeacher": true
+            }
+        ]
+    },
+    {
+        "id": "thread-2",
+        "author": "Siti Nurhaliza",
+        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150",
+        "role": "Siswa",
+        "category": "Umum",
+        "title": "Tips efisien membagi waktu pengerjaan tugas slicing UI dan tugas sekolah umum",
+        "content": "Adakah tips dari teman-teman atau guru agar tidak burnout saat ada beberapa deadline tugas praktek bersamaan di akhir pekan?",
+        "likes": 8,
+        "createdAt": "Yesterday",
+        "replies": []
+    }
+]

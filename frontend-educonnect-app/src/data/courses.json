@@ -1,0 +1,50 @@
+[
+    {
+        "id": "course-1",
+        "title": "Pemrograman Web & Perangkat Bergerak",
+        "code": "RPL-301",
+        "teacher": "Rian Kusuma, S.Pd.",
+        "category": "Kejuruan RPL",
+        "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600",
+        "progress": 75,
+        "totalModules": 12,
+        "completedModules": 9,
+        "description": "Pelajari dasar-dasar pengembangan web modern mulai dari HTML5, CSS3, JavaScript ES6+, hingga ReactJS dan Tailwind CSS."
+    },
+    {
+        "id": "course-2",
+        "title": "Basis Data & Query SQL Lanjutan",
+        "code": "RPL-302",
+        "teacher": "Siti Rahmawati, M.T.",
+        "category": "Kejuruan RPL",
+        "thumbnail": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=600",
+        "progress": 40,
+        "totalModules": 10,
+        "completedModules": 4,
+        "description": "Pemahaman perancangan basis data relasional (ERD), normalisasi, hingga optimasi perintah SQL dan stored procedures."
+    },
+    {
+        "id": "course-3",
+        "title": "Pendidikan Pancasila & Kewarganegaraan",
+        "code": "UMM-101",
+        "teacher": "Budi Santoso, S.Pd.",
+        "category": "Umum",
+        "thumbnail": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?w=600",
+        "progress": 90,
+        "totalModules": 8,
+        "completedModules": 7,
+        "description": "Pendalaman nilai-nilai Pancasila, konstitusi negara, hak dan kewajiban warga negara dalam era digital."
+    },
+    {
+        "id": "course-4",
+        "title": "Bahasa Inggris untuk Industri IT",
+        "code": "UMM-102",
+        "teacher": "Sarah Jenkins, B.Ed.",
+        "category": "Umum",
+        "thumbnail": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600",
+        "progress": 60,
+        "totalModules": 10,
+        "completedModules": 6,
+        "description": "Meningkatkan kemampuan komunikasi profesional, penulisan dokumentasi teknis, dan wawancara kerja dalam bahasa Inggris."
+    }
+]

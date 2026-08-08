@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sch-1",
+    "day": "Senin",
+    "subject": "Pemrograman Web & Perangkat Bergerak",
+    "code": "RPL-WEB-11",
+    "classGroup": "XI RPL 1",
+    "teacher": "Rian Kusuma, S.Pd.",
+    "room": "Lab Komputer 2",
+    "timeStart": "07:30",
+    "timeEnd": "09:30",
+    "status": "completed"
+  },
+  {
+    "id": "sch-2",
+    "day": "Senin",
+    "subject": "Basiskom / Basis Data",
+    "code": "RPL-BD-11",
+    "classGroup": "XI RPL 1",
+    "teacher": "Siti Rahmawati, M.T.",
+    "room": "Lab Komputer 1",
+    "timeStart": "09:45",
+    "timeEnd": "11:45",
+    "status": "ongoing"
+  },
+  {
+    "id": "sch-3",
+    "day": "Senin",
+    "subject": "Pemrograman Berorientasi Objek (PBO)",
+    "code": "RPL-PBO-11",
+    "classGroup": "XI RPL 1",
+    "teacher": "Ahmad Dahlan, M.Kom.",
+    "room": "Ruang Teori 302",
+    "timeStart": "12:30",
+    "timeEnd": "14:30",
+    "status": "upcoming"
+  },
+  {
+    "id": "sch-4",
+    "day": "Selasa",
+    "subject": "Desain Komunikasi Visual & UI/UX",
+    "code": "RPL-UIUX-11",
+    "classGroup": "XI RPL 1",
+    "teacher": "Dian Sastro, S.Sn.",
+    "room": "Lab Multimedia",
+    "timeStart": "07:30",
+    "timeEnd": "10:00",
+    "status": "upcoming"
+  },
+  {
+    "id": "sch-5",
+    "day": "Rabu",
+    "subject": "Kewirausahaan",
+    "code": "KWU-11",
+    "classGroup": "XI RPL 1",
+    "teacher": "Budi Santoso, S.Pd.",
+    "room": "Ruang Teori 204",
+    "timeStart": "08:00",
+    "timeEnd": "09:30",
+    "status": "upcoming"
+  }
+]
